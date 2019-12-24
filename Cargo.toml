@@ -1,0 +1,7 @@
+[package]
+name = "advent-of-code-2019-rust"
+version = "0.1.0"
+authors = ["Rick van Dam <rick.van.dam@avivasolutions.nl>"]
+edition = "2018"
+
+[dependencies]
